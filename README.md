@@ -4,7 +4,7 @@ Ask questions about a PDF and get answers with **page-level citations**, running
 
 Demo document: an EU accessibility directive (`data/EU_Directive_Accessibility.pdf`, source: [EUR-Lex](https://eur-lex.europa.eu)).
 
-![demo](docs/demo.gif)
+![RAG_accessibility](docs/RAG_accessibility.gif)
 
 ## How it works
 
