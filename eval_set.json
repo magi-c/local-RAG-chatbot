@@ -1,0 +1,86 @@
+[
+    {
+        "question": "What are the requirements for user interfaces?",
+        "page": 31
+    },
+    {
+        "question": "What are functional performance criteria?",
+        "page": 36
+    },
+    {
+        "question": "What are the requirements for products with vocal input defined?",
+        "page": 36
+    },
+    {
+        "question": "How many restrictions are there for user interfaces?",
+        "page": 31
+    },
+    {
+        "question": "What is expected font size in accessible user interfaces?",
+        "page": null
+    },
+    {
+        "question": "Must users be able to resize text in user interfaces?",
+        "page": 39
+    },
+    {
+        "question": "What is expected contrast ratio in accessible user interfaces?",
+        "page": null
+    },
+    {
+        "question": "Must users be able to increase contrast on the page??",
+        "page": 39
+    },
+    {
+        "question": "Most important accessibility requirements for user interfaces?",
+        "page": 7
+    },
+    {
+        "question": "Most important accessibility requirements for any products?",
+        "page": 3
+    },
+    {
+        "question": "Are subtitles required in all videos?",
+        "page": 40
+    },
+    {
+        "question": "Are there specific requirements for transport services?",
+        "page": 18
+    },
+    {
+        "question": "What are the requirements for e-books?",
+        "page": 6
+    },
+    {
+        "question": "What kind of dissabilities are considered in accessibility requirements?",
+        "page": 9
+    },
+    {
+        "question": "How can we create page more accessible for people with limited hearing?",
+        "page": 42
+    },
+    {
+        "question": "Is problem with color perception considered as disability?",
+        "page": 38
+    },
+    {
+        "question": "Is alternative page with high contrast required?",
+        "page": 6
+    },
+    {
+        "question": "Are additional tools to increase/decrease font size required?",
+        "page": 6
+    },
+    {
+        "question": "Why do we think that the sky is blue?",
+        "page": null
+    },
+    {
+        "question": "What are differences between WCAG 2.0 and WCAG 2.1?",
+        "page": null
+    },
+    {
+        "question": "What is the most popular assistive technology?",
+        "page": null
+    }
+]
