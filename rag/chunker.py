@@ -19,7 +19,7 @@ def split_sentences(text: str) -> list[str]:
         if para: 
             parts.extend(s.strip() for s in re.split(r"(?<=[.!?])\s+", para) 
                          if s.strip()) 
-            return parts
+    return parts
 
 # TODO compare with RecursiveCharacterTextSplitter from langchain-text-splitters
 def chunk_page(page: Page, chunk_size: int = 1000, overlap: int = 200) -> list[Chunk]:
